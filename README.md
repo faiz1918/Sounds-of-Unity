@@ -1,54 +1,9 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
-</header>
-
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
-
-## Step 1: Enable GitHub Pages
-
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
-
-### :keyboard: Activity: Enable GitHub Pages
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. Under your repository name, click **Settings**.
-1. Click **Pages** in the **Code and automation** section.
-1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
-1. Click the **Save** button.
-1. Wait about _one minute_ then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
-   > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Description
+Sounds Of Unity is an interactive project that can be accessed via the web, which helps users explore remote parts of the community using audio, photographs, and CSS animations. I aimed to design the culture of unity through stories and common narratives shared by members of one community. The visuals with respect to the community were very perceptively pleasing, and smooth CSS animations played a major role, along with responsive audio playback. The website is split into individual sections such as the homepage, which serves as an index for the entire site, a stories page which houses the audio narrations for the stories, an image gallery, an about page, and finally a contact us form. Everything on the website stands out with regards to the cordiality and exuberance of the community.
+I developed the website using a combination of HTML, CSS, and very little JavaScript for the responsive components like the audio controller, console and form validation classes. Capturing and editing sounds with respect to the theme and keeping them clear and interesting was done using Audacity. The CSS was crafted very carefully, paying a lot of attention it to be orderly and make the layout responsive. transitions and hover effects were achieved with use of CSS animations. The images selected to be used for this project portray the startling difference and intensity contained in the community. This project was published using GitHub Pages because it's free to use and easily available on the internet.
+CREDITS and CITATIONS
+Audio
+•	"Nasheed by Castillo feat. Muslim Belal - Past & Present" by Castillo feat. Muslim Belal. CC License. Hydr0.org. Retrieved from: Hydr0.org Nasheed
+•	"Islamic Voices of Our Elders" from Pixabay Music. CC0 (Public Domain). Retrieved from: Pixabay Music - Islamic Voices
+Images
+•	Community celebration images sourced from Getty Images. Retrieved from: Getty Images - Muslim Celebration
