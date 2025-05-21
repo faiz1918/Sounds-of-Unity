@@ -1,11 +1,33 @@
-# Description
-Sounds Of Unity is an interactive project that can be accessed via the web, which helps users explore remote parts of the community using audio, photographs, and CSS animations. I aimed to design the culture of unity through stories and common narratives shared by members of one community. The visuals with respect to the community were very perceptively pleasing, and smooth CSS animations played a major role, along with responsive audio playback. The website is split into individual sections such as the homepage, which serves as an index for the entire site, a stories page which houses the audio narrations for the stories, an image gallery, an about page, and finally a contact us form. Everything on the website stands out with regards to the cordiality and exuberance of the community.
-I developed the website using a combination of HTML, CSS, and very little JavaScript for the responsive components like the audio controller, console and form validation classes. Capturing and editing sounds with respect to the theme and keeping them clear and interesting was done using Audacity. The CSS was crafted very carefully, paying a lot of attention it to be orderly and make the layout responsive. transitions and hover effects were achieved with use of CSS animations. The images selected to be used for this project portray the startling difference and intensity contained in the community. This project was published using GitHub Pages because it's free to use and easily available on the internet.
 
 
-# CREDITS and CITATIONS
-## Audio
-•	"Nasheed by Castillo feat. Muslim Belal - Past & Present" by Castillo feat. Muslim Belal. CC License. Hydr0.org. Retrieved from: Hydr0.org Nasheed
-•	"Islamic Voices of Our Elders" from Pixabay Music. CC0 (Public Domain). Retrieved from: Pixabay Music - Islamic Voices
-## Images
-•	Community celebration images sourced from Getty Images. Retrieved from: Getty Images - Muslim Celebration
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+  Historic note: previous version checked for empty pull request, changed to the correct theme `minima`.
+-->
+
+## Step 2: Configure your site
+
+_You turned on GitHub Pages! :tada:_
+
+We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
+
+Jekyll uses a file titled `_config.yml` to store settings for your site, your theme, and reusable content like your site title and GitHub handle. You can check out the `_config.yml` file on the **Code** tab of your repository.
+
+We need to use a blog-ready theme. For this activity, we will use a theme named "minima".
+
+### :keyboard: Activity: Configure your site
+
+1. Browse to the `_config.yml` file in the `my-pages` branch.
+1. In the upper right corner, open the file editor.
+1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
+   ```yml
+   theme: minima
+   ```
+1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
+1. Commit your changes.
+1. (optional) Create a pull request to view all the changes you'll make throughout this course. Click the **Pull Requests** tab, click **New pull request**, set `base: main` and `compare:my-pages`.
+1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+
